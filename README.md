@@ -1,7 +1,5 @@
 # OOP_-
 Object oriented programing 
-Here’s a concise one-page README for your project:
-
 ---
 
 Computer Hierarchy - Python OOP Example
@@ -18,8 +16,8 @@ Features
   - Additional Attribute: `_screen_size` (in inches).
   - Overridden Methods: Custom `power_on` and `get_details`.
   Desktop
-  - **Additional Attribute**: `_tower_size` (in liters).
-  - **Overridden Methods**: Custom `power_on` and `get_details`.
+  - Additional Attribute: `_tower_size` (in liters).
+  - Overridden Methods: Custom `power_on` and `get_details`.
 
 ---
 
