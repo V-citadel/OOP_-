@@ -30,10 +30,8 @@ Key OOP Concepts
 
 How to Run the Code
 1. Install Python 3.x
-2. Save the code in a file (e.g., `computer_hierarchy.py`).
+2. Save the code in a file 
 3. Execute the file:
-   bash
-   python computer_hierarchy.py
    
 
 Output:
